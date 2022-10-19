@@ -1006,7 +1006,7 @@
   resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.7.tgz#b09dc5b2105dd267e8374c47e4490240451dc7f6"
   integrity sha512-0e7WQ4LE/+LEfW2zfAw9ppsB6A8RmxbdAUPAF++UT80epY+7emuQDkKXmaK0a9lp6An50RvzezI0cIQjp1A58w==
 
-"@rails/webpacker@5.4.3":
+"@rails/webpacker@^5.4.3":
   version "5.4.3"
   resolved "https://registry.yarnpkg.com/@rails/webpacker/-/webpacker-5.4.3.tgz#cfe2d8faffe7db5001bad50a1534408b4f2efb2f"
   integrity sha512-tEM8tpUtfx6FxKwcuQ9+v6pzgqM5LeAdhT6IJ4Te3BPKFO1xrGrXugqeRuZ+gE8ASDZRTOK6yuQkapOpuX5JdA==
@@ -1069,9 +1069,9 @@
   integrity sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==
 
 "@types/node@*":
-  version "18.11.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.0.tgz#f38c7139247a1d619f6cc6f27b072606af7c289d"
-  integrity sha512-IOXCvVRToe7e0ny7HpT/X9Rb2RYtElG1a+VshjwT00HxrM2dWBApHQoqsI6WiY7Q03vdf2bCrIGzVrkF/5t10w==
+  version "18.11.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.2.tgz#c59b7641832531264fda3f1ba610362dc9a7dfc8"
+  integrity sha512-BWN3M23gLO2jVG8g/XHIRFWiiV4/GckeFIqbU/C4V3xpoBBWSMk4OZomouN0wCkfQFPqgZikyLr7DOYDysIkkw==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -1859,9 +1859,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001400:
-  version "1.0.30001421"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001421.tgz#979993aaacff5ab72a8d0d58c28ddbcb7b4deba6"
-  integrity sha512-Sw4eLbgUJAEhjLs1Fa+mk45sidp1wRn5y6GtDpHGBaNJ9OCDJaVh2tIaWWUnGfuXfKf1JCBaIarak3FkVAvEeA==
+  version "1.0.30001422"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001422.tgz#f2d7c6202c49a8359e6e35add894d88ef93edba1"
+  integrity sha512-hSesn02u1QacQHhaxl/kNMZwqVG35Sz/8DgvmgedxSH8z9UUpcDYSPYgsj3x5dQNRcNp6BwpSfQfVzYUTm+fog==
 
 case-sensitive-paths-webpack-plugin@^2.4.0:
   version "2.4.0"
@@ -3688,9 +3688,9 @@ is-color-stop@^1.0.0:
     rgba-regex "^1.0.0"
 
 is-core-module@^2.9.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.10.0.tgz#9012ede0a91c69587e647514e1d5277019e728ed"
-  integrity sha512-Erxj2n/LDAZ7H8WNJXd9tw38GYM3dv8rk8Zcs+jJuxYTW7sozH+SS8NtrSjVL1/vpLvWi1hxy96IzjJ3EHTJJg==
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/is-core-module/-/is-core-module-2.11.0.tgz#ad4cb3e3863e814523c96f3f58d26cc570ff0144"
+  integrity sha512-RRjxlvLDkD1YJwDbroBHMb+cukurkDWNyHx7D3oNB5x9rb5ogcksMC5wHCadcXoo67gVr/+3GFySh3134zi6rw==
   dependencies:
     has "^1.0.3"
 
